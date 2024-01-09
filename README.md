@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prashant Puri =====================================================================================================================================  
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Prashant Puri 
+--------------------------------------------------------------------------------------------------------------------------------------
 Software Developer
 ------------------  
 I've been working with Oracle as a software Developer for 2 years now, I work and have experience in MERN stack , building interactive websites using Reactjs . On the backend, my expertise extends to Node.js and JAVA, where I focus on creating robust and scalable server-side applications. In addition to my core skills, I have a strong background in database, particularly with SQL databases. I'm also well-versed in DevOps practices, ensuring that the entire development lifecycle is smooth and efficient.  
