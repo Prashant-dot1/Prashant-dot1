@@ -5,7 +5,8 @@ Software Developer
 I've been working with Oracle as a software Developer for 2 years now, I work and have experience in MERN stack , building interactive websites using Reactjs . On the backend, my expertise extends to Node.js and JAVA, where I focus on creating robust and scalable server-side applications. In addition to my core skills, I have a strong background in database, particularly with SQL databases. I'm also well-versed in DevOps practices, ensuring that the entire development lifecycle is smooth and efficient.  
 * 🌍  I'm based in India
 * ✉️  You can contact me at [puriprashant14@gmail.com](mailto:puriprashant14@gmail.com)
-* 🚀  I'm currently working on [Real Time Communication](http://github.com/Prashant-dot1/realTimeChatApp) * 🧠  I'm learning WebSockets, Socket.io , WebRTC , Redux , Next.js * 🤝  I'm open to collaborating on Interesting real time communication projects
+* 🚀  I'm currently working on [Real Time Communication](http://github.com/Prashant-dot1/realTimeChatApp)
+* 🧠  I'm learning WebSockets, Socket.io , WebRTC , Redux , Next.js * 🤝  I'm open to collaborating on Interesting real time communication projects
 
 ### Skills  
 
