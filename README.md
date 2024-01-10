@@ -6,7 +6,8 @@ I've been working with Oracle as a software Developer for 2 years now, I work an
 * 🌍  I'm based in India
 * ✉️  You can contact me at [puriprashant14@gmail.com](mailto:puriprashant14@gmail.com)
 * 🚀  I'm currently working on [Real Time Communication](http://github.com/Prashant-dot1/realTimeChatApp)
-* 🧠  I'm learning WebSockets, Socket.io , WebRTC , Redux , Next.js * 🤝  I'm open to collaborating on Interesting real time communication projects
+* 🧠  I'm learning WebSockets, Socket.io , WebRTC , Redux , Next.js
+* 🤝  I'm open to collaborating on Interesting real time communication projects
 
 ### Skills  
 
