@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 --------------------------------------------------------------------------------------------------------------------------------------
 Software Developer II | Building in Rust 🦀 
 --------------------------------------------  
-I'm currently working as an SDE 2 at Oracle, focusing on enhancing my skills and diving deeper into Rust. I'm passionate about building efficient, scalable systems and contributing to open source projects. My journey in Rust has been both challenging and rewarding, and I'm always eager to collaborate on interesting projects.  
+I'm currently working as an SDE 2 at Nielsen Media, focusing on enhancing my skills and diving deeper into Rust. I'm passionate about building efficient, scalable systems and contributing to open source projects. My journey in Rust has been both challenging and rewarding, and I'm always eager to collaborate on interesting projects.  
 * 🌍  I'm based in India
 * ✉️  You can contact me at [puriprashant14@gmail.com](mailto:puriprashant14@gmail.com)
 * 🧠  I'm learning/building in Rust 🦀
